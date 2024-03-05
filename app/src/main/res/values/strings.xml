@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BiometricAuthenticationInCompose</string>
+    <string name="btn_login">Login</string>
+    <string name="prompt_info_title">Login</string>
+    <string name="prompt_info_subtitle">Use your fingerprint to login</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="home_screen_title">Home screen</string>
+    <string name="error_failed_to_activate_biometrics_title">Failed to activate biometrics</string>
+    <string name="error_failed_to_activate_biometrics_description">Biometric login on the device cannot be activated. The level of biometrics does not meet security requirements.</string>
+    <string name="btn_redirect">Redirect</string>
+    <string name="error_biometrics_missing_title">Biometrics error</string>
+    <string name="error_biometrics_missing_description">Device is missing biometrics data. Do you wish to go to settings and set them up?</string>
+    <string name="error_biometrics_lockout_title">Biometrics lockout</string>
+    <string name="error_biometrics_lockout_description">Too many attempts, please try it again after 30 seconds.</string>
+    <string name="error_biometrics_lockout_permanent_description">Biometrics is lockout after too many attempts, please use your PIN.</string>
+    <string name="biometrics_screen_title">Demo App</string>
+    <string name="biometrics_screen_subtitle">Biometric authentication in compose</string>
+    <string name="finger_print_icon_content_description">finger print icon</string>
+    <string name="logout_icon_content_description">logout icon</string>
+</resources>
